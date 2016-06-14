@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="af255c36e7085001cbaf9e6468009324941d581e">
+        <dex dex="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fa5166271bb2c7e530019fa799a7c37687782993.jar" />
+    </item>
+    <item
+        jar="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="116721752208417d3fed40d517cf89feab76609e">
+        <dex dex="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/intermediates/pre-dexed/debug/instant-run_54d598fc16956982363076878d6663ca7f1f8518.jar" />
+    </item>
+
+</items>

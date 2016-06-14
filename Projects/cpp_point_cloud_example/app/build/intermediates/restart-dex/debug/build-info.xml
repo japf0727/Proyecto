@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="15140095421058"
+    token="7362406751960168546" >
+
+    <task
+        name="javac"
+        duration="210" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="34" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="15140095421058" >
+        <artifact
+            location="/home/javier/Documents/ProjectTango/Projects/cpp_point_cloud_example/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
