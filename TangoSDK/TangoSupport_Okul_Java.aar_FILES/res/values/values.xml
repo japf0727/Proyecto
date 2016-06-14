@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ubuntu/jobs/redwood_internal/RedwoodInternal/Redwood/applications/android/tango_support_java_lib/app/src/main/res/values/shared-libraries.xml -->
+    <eat-comment/>
+    <string-array name="shared_libraries">
+        <item>tango_support_api</item>
+        <item>tango_support_java_lib</item>
+    </string-array>
+</resources>
